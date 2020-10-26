@@ -16,8 +16,8 @@ Matlab code for simulation of plant seed dispersal and population survival in dy
 ├── README.md
 ├── requirements.txt
 └── matlab             <- Source code for this project
-│   └── Functions      <- Matlab functions
-```
+    └── Functions      <- Matlab functions
+
 
 
 ## License
