@@ -2,8 +2,9 @@
 
 Version 0.1.0
 
-A short description of your project
+Matlab code for simulation of plant seed dispersal and population survival in dynamic fragmented landscapes.
 
+![example run](https://github.com/jelletreep/patch-dispersal/blob/master/example.gif)
 
 ## Project organization
 
