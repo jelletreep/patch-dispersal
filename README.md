@@ -6,19 +6,6 @@ Matlab code for simulation of plant seed dispersal and population survival in dy
 
 ![example run](https://github.com/jelletreep/patch-dispersal/blob/master/example.gif)
 
-## Project organization
-
-```
-.
-├── .gitignore
-├── CITATION.md
-├── LICENSE.md
-├── README.md
-├── requirements.txt
-└── matlab             <- Source code for this project
-    └── Functions      <- Matlab functions
-
-
 
 ## License
 
